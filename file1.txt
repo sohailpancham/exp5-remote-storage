@@ -1,0 +1,1 @@
+Storage file accessed remotely using Ubuntu VM
