@@ -2,3 +2,4 @@ Storage file accessed remotely using Ubuntu VM
 This line was added from Windows Host for Experiment 6
 This line was synchronized using Git Pull on Ubuntu VM
 This line was synchronized using Git Pull on Ubuntu VM
+This line was synchronized using Git Pull on Ubuntu VM
